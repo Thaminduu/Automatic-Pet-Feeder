@@ -1,2 +1,1 @@
-# Automatic-Pet-Feeder
-An ESP32-based smart feeder that automatically dispenses food for pets at scheduled times
+IoT-based automatic pet feeder built with ESP32, MQTT, and Node-RED, featuring remote monitoring, scheduled feeding, and wireless control.
