@@ -1,0 +1,9 @@
+## Key Features
+
+- ESP32-based embedded control system
+- MQTT publish-subscribe communication
+- Node-RED monitoring and control dashboard
+- Automated feeding schedules
+- Manual feed triggering
+- Wi-Fi connectivity
+- Modular and scalable architecture
