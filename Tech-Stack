@@ -1,0 +1,15 @@
+## Technologies
+
+### Hardware
+- ESP32
+- Food dispensing mechanism
+- Power supply system
+
+### Software
+- Arduino IDE
+- MQTT
+- Node-RED
+
+### Communication
+- Wi-Fi
+- MQTT Broker
